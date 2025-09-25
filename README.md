@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ridwan7789
-- 👀 I’m interested in ... Software development 
-- 🌱 I’m currently learning ... All code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ridwan7789/ridwan7789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Web3 Community Manager | Moderator | NFT & DeFi Enthusiast
+I build and scale vibrant Web3 communities across Discord, Telegram, and X (Twitter), driving engagement, organizing events, and ensuring smooth moderation. 
+Passionate about fostering inclusive, educational, and sustainable ecosystems that enhance brand loyalty and accelerate project adoption.
